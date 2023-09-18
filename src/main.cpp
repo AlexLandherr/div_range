@@ -1,3 +1,4 @@
+#include "include/functions.h"
 #include <iostream>
 
 /*
